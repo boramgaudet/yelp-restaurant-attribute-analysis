@@ -35,7 +35,7 @@ Manually collected Yelp data (50 restaurants total: 10 per cuisine) using Yelpâ€
 ![Attribute Mentions Overall](images/attribute_mentions_overall.png)
 
 ### Attribute Mentions by Cuisine
-![Mentions by Cuisine](images/mentions_by_cuisine.png)
+![Mentions by Cuisine](images/attribute_mentions_by_cuisine.png)
 
 ## About (Group Project)
 This was a group project completed during my MSBA coursework at UC Irvine. I contributed to data loading/EDA, matplotlib visualizations, and helped develop the final report and presentation. Statistical analysis (ANOVA + regression) was completed collaboratively by the team.
