@@ -37,7 +37,7 @@ Manually collected Yelp data (50 restaurants total: 10 per cuisine) using Yelpâ€
 ### Attribute Mentions by Cuisine
 ![Attribute Mentions by Cuisine](images/attribute_mentions_by_cuisine.png)
 
-### ### What Drives Higher Yelp Ratings? (Overall Regression)
+### What Drives Higher Yelp Ratings? (Overall Regression)
 ![Overall Regression](images/regression_overall.png)
 
 ## About (Group Project)
